@@ -1,6 +1,6 @@
 {
   "name": "confusion",
-  "version": "0.1.0",
+  "version": "yes",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -37,5 +37,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/mcewenar/react_app_1.git",
+  "author": "<dmcewena@hotmail.com>",
+  "license": "MIT",
+  "description": "app using React.js"
 }
